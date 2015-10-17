@@ -1,0 +1,1 @@
+Rails app created to filter Meetupd Group by different criterium
